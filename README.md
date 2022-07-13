@@ -1,6 +1,7 @@
 Olá pessoal!
-Meu nome é Caléb Porto, e no momento estou iniciando na programação, através do curso CS50 de Harvard.
-Estarei compartilhando meus códigos e buscando aprender com a galera da comunidade.
-Meu interesse é sobre desenvolvimento mobile, mas também pretendo aprender sobre web.
-Espero poder aprender e também compartilhar conhecimento.
-Obrigado.
+Meu nome é Caléb Porto, desenvolvo sistemas web usando Python com o micro-framework Flask.
+Atualmente estou terminando um projeto em Flask, para iniciar os estudos com Django.
+Paralelamente, estou estudando tecnologias de Front-End como HTML, CSS e Javascript.
+Aqui no meu Github você vai encontrar alguns projetos em desenvolvimento, bem como exercícios resolvidos e em andamento.
+
+Muito prazer!
