@@ -1,6 +1,6 @@
 Olá!
 Me chamo Caléb Porto.
-Sou desenvolvedor web fullstack,e trabalho principalmente com Python e Javascript(Frontend).
+Sou desenvolvedor web fullstack,e trabalho principalmente com Python e Javascript(React/NextJS).
 
 Tecnologias com que trabalho:
 
